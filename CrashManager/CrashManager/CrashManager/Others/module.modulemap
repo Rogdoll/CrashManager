@@ -1,0 +1,4 @@
+module CMCKit [system] {
+    header "CHeaders.h"
+    export *
+}

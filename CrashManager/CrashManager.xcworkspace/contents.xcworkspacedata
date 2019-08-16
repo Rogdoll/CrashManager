@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CrashManagerOCDemo/CrashManagerOCDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CrashManagerDemo/CrashManagerDemo.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CrashManager/CrashManager.xcodeproj">
+   </FileRef>
+</Workspace>
